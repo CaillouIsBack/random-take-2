@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Pangolin');
+@import url('https://fonts.googleapis.com/css?family=Slabo+27px');
+#button-container {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color:chocolate;
+    font-family: 'Slabo 27px', serif;
+}
+body{
+    background-color: darkcyan;
+}
